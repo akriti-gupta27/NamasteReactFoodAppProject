@@ -1,0 +1,31 @@
+{
+  "name": "namastereactfoodappproject",
+  "version": "1.0.0",
+  "description": "This is Namaste React Food App",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akriti-gupta27/NamasteReactFoodAppProject.git"
+  },
+  "keywords": [],
+  "author": "Akriti Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akriti-gupta27/NamasteReactFoodAppProject/issues"
+  },
+  "homepage": "https://github.com/akriti-gupta27/NamasteReactFoodAppProject#readme",
+  "devDependencies": {
+    "parcel": "^2.14.1"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserslist":[
+    "last 5 chrome version"
+  ]
+}
